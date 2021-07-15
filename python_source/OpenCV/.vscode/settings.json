@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintArgs": [
+        "--generated-members=cv2.*",
+        "--generated-members=numpy.*"
+    ],
+    "python.linting.pylamaEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\anaconda\\python.exe"
+}
